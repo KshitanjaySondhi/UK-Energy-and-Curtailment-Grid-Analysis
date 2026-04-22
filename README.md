@@ -54,7 +54,7 @@ carbon cost of the transmission gap?
 - fig6_top_farms.png — top 10 curtailed wind farms
 
 ## Related
-Full analysis published on Substack: [your substack link here]
+Full analysis published on Substack: (https://kshitanjay.substack.com/p/why-the-uk-cannot-build-its-way-out)
 
 ## Author
 Kshitanjay Sondhi
