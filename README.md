@@ -28,6 +28,10 @@ carbon cost of the transmission gap?
   2021-2026): nationalgrideso.com/data-portal/historic-generation-mix
 - NESO Wind BOA Volumes (2021/22 to 2025/26): 
   neso.energy — search Wind BOA Volumes
+Note: Raw data file for fuel generation is not included in this repository. 
+Download df_fuel_ckan.csv directly from the National Grid 
+ESO data portal using the link above and place in the same 
+folder as the analysis script before running.
 
 ## Methods
 - OLS regression: gas dispatch on renewable share (daily data)
