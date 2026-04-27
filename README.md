@@ -49,7 +49,7 @@ folder as the analysis script before running.
   cost using CCGT emission factor would be higher
 
 ## Files
-- uk_grid_analysis_final.py - full reproducible analysis
+- UKcarbonGridAnalysis.ipynb - full reproducible analysis
 - fig1_gas_vs_renewables.png - OLS scatter plot
 - fig2_annual_trend.png - annual renewable share vs gas output
 - fig3_carbon_intensity.png - monthly grid carbon intensity
